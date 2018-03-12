@@ -1,0 +1,1 @@
+{"jobID":"49dfa0f2-bb4a-adad-bdfe-b1ba48ba607a","spec":{"type":"policy","cause":{"Message":"","User":"Etienne Dilocker \u003cetienne@dilocker.de\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
